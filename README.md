@@ -6,11 +6,11 @@ Suggested GitHub Topics: whisper semantic-search pdf llm go gemini openai video-
 
 An open-source, file-driven AI parser that lets you semantically search and highlight content inside PDFs and videos—instantly and accurately.
 
-> ⚠️ The hosted demo (ctrl-f.world) is currently offline due to API token limits. See local setup instructions below.
+> The hosted demo (ctrl-f.world) is currently offline due to API token limits. See local setup instructions below.
 
 ---
 
-## 🚀 Contributors
+## Contributors
 
 - **Rumen Mitov** — Backend Lead
   <https://www.linkedin.com/in/rumen-mitov>
@@ -23,7 +23,7 @@ An open-source, file-driven AI parser that lets you semantically search and high
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 **Ctrl-f** bridges the gap between powerful LLMs and real-world documents/videos. Conventional LLMs often:
 
@@ -39,7 +39,7 @@ End result: Get "golden nuggets" of information—complete with page numbers or 
 
 ---
 
-## 🛠️ Architecture
+## Architecture
 
 ### Frontend
 - **Tech stack:** HTML, CSS, JavaScript
@@ -60,7 +60,7 @@ All interactions between components use well-structured JSON "contracts" to ensu
 
 ---
 
-## 🔧 Why Ctrl-f Is Unique
+## Why Ctrl-f Is Unique
 
 - **Hybrid AI pipeline:** Leverages both LLMs and traditional parsers for accuracy.
 - **Open source:** No paywalls—anyone can host or extend the tool.
@@ -69,7 +69,7 @@ All interactions between components use well-structured JSON "contracts" to ensu
 
 ---
 
-## ⚙️ Local Setup
+## Local Setup
 
 ### Prerequisites
 
