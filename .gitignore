@@ -1,6 +1,19 @@
+.DS_Store
+**/.DS_Store
+.idea/
+*.iml
+__pycache__/
+*.pyc
+.env
+node_modules/
+.venv/
+venv/
+build/
+dist/
+.cache/
+
+# Pre-existing entries
 /*venv
-/**/*.DS_Store
 /**/*.pdf
 /**/__pycache__/
 /**/*.env
-/.env
